@@ -1,2 +1,4 @@
 # Virtual-Painting
-Painting using different colors without pen and paper
+Detection of the marker’s color.
+
+Implementation of Virtual Paint application using Web Camera
